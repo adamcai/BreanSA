@@ -24,5 +24,10 @@ namespace MsgReaderWpfApplication
         {
             InitializeComponent();
         }
+
+        private void btLoadEmails_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
